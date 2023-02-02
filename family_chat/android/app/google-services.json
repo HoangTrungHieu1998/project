@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615870733345",
+    "firebase_url": "https://family-chat-90117-default-rtdb.firebaseio.com",
+    "project_id": "family-chat-90117",
+    "storage_bucket": "family-chat-90117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615870733345:android:738fcee0342e20e3445760",
+        "android_client_info": {
+          "package_name": "com.hoangtrunghieu.family_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615870733345-77qunkrgcl34dsbqlaht4oie6qg911kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSn_NfiY6-LISPN2-5qJYcsLo9waA149U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615870733345-77qunkrgcl34dsbqlaht4oie6qg911kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
